@@ -2,6 +2,6 @@
 
 Tech-stack:
 
-Frontend: Botostrap,semantic-ui
-Backend/Server-side: Python(Flask)
+Frontend: Botostrap,semantic-ui<br>
+Backend/Server-side: Python(Flask)<br>
 Database: Postgresql
