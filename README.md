@@ -1,5 +1,13 @@
 # wantedly-test!
 
+### Tech-stack:
+
+1. Frontend: Botostrap,semantic-ui<br>
+2. Backend/Server-side: Python(Flask)<br>
+3. Database: Postgresql
+
+
+
 ### Problem statement
 Task
 ----
@@ -34,8 +42,4 @@ Notes
 
 
 
-### Tech-stack:
 
-1. Frontend: Botostrap,semantic-ui<br>
-2. Backend/Server-side: Python(Flask)<br>
-3. Database: Postgresql
