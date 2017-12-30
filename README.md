@@ -2,7 +2,7 @@
 
 ### Tech-stack:
 
-1. Frontend: Botostrap,semantic-ui<br>
+1. Frontend: Bootstrap,semantic-ui<br>
 2. Backend/Server-side: Python(Flask)<br>
 3. Database: Postgresql
 
